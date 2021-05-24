@@ -1,3 +1,3 @@
 # Jumping-Jack-Game
 
-Made a ping pong type multiplayer game using processing, arduino, ultrasonic sensor and touch sensor.
+Made a ping pong interactive multiplayer game using processing, arduino, ultrasonic sensor and touch sensor.
